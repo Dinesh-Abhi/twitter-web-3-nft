@@ -1,0 +1,20 @@
+# Ignore build artifacts
+build/
+bin/
+abi/
+
+# Ignore local Ethereum networks
+geth/
+ganache/
+
+# Ignore Solidity compiler artifacts
+*.solc-output.json
+
+# Ignore Truffle artifacts
+.truffle/
+
+# Ignore contract deployment scripts
+deploy.js
+
+# Ignore node_modules
+node_modules/

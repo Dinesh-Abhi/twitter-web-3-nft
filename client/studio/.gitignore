@@ -1,0 +1,23 @@
+# Ignore Sanity build artifacts
+sanity/dist/
+sanity/build/
+
+# Ignore temporary files
+.DS_Store
+*.log
+
+# Ignore environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore node modules
+node_modules/
+
+# Ignore Yarn lockfile
+yarn.lock
