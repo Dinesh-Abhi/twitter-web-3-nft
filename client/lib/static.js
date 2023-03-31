@@ -1,9 +1,9 @@
 export const news = [
     {
-      category: 'Clever Programmer • LIVE',
+      category: 'Clever Programming • LIVE',
       title: 'Dinesh is live on YouTube!',
       image:
-        'https://pbs.twimg.com/profile_images/1462369633390977028/2CAX7nfs_400x400.jpg',
+        'https://cdn.dribbble.com/users/77598/screenshots/14912769/media/eadc9e6b184760c7aa825b448ada06d9.png?compress=1&resize=400x300',
     },
     {
       category: 'Databases • Trending',
